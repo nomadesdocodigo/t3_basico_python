@@ -2,4 +2,4 @@
 
 Conteúdo básico de Python com Exemplos.
 
-* Entrada e Saída: _comandos print e input_
+* **Entrada e Saída:** _comandos print e input._
